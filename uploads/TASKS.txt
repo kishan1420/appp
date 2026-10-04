@@ -1,0 +1,62 @@
+KISAAN APP / WEBSITE DEVELOPMENT TASK PLAN Version: 1.0
+
+PHASE 1 - PROJECT SETUP [ ] Initialize React + TypeScript + Vite. [ ]
+Configure Tailwind CSS. [ ] Configure React Router. [ ] Add Lucide
+React. [ ] Create environment variable strategy. [ ] Create base folder
+structure. [ ] Configure linting/formatting. [ ] Create base responsive
+layout.
+
+PHASE 2 - DESIGN SYSTEM [ ] Define colors. [ ] Define typography. [ ]
+Define spacing. [ ] Build Button component. [ ] Build Input component. [
+] Build Select component. [ ] Build Card component. [ ] Build
+Modal/Dialog. [ ] Build Toast. [ ] Build Loading state. [ ] Build Empty
+state. [ ] Build Error state. [ ] Build responsive navigation.
+
+PHASE 3 - AUTH & PROFILE [ ] Registration. [ ] Login. [ ] Farmer
+profile. [ ] Language preference. [ ] Location details. [ ] Profile
+editing. [ ] Validation.
+
+PHASE 4 - FARM MANAGEMENT [ ] Create farm. [ ] Edit farm. [ ] Delete
+farm. [ ] Farm list. [ ] Farm details. [ ] Land area/unit handling. [ ]
+Irrigation information. [ ] Soil information.
+
+PHASE 5 - CROP MANAGEMENT [ ] Add crop. [ ] Edit crop. [ ] Delete crop.
+[ ] Crop detail page. [ ] Crop stages. [ ] Sowing date. [ ] Harvest
+estimate. [ ] Crop activities. [ ] Crop reminders.
+
+PHASE 6 - WEATHER [ ] Weather API adapter. [ ] Current weather. [ ]
+Forecast. [ ] Rain probability. [ ] Humidity. [ ] Weather error state. [
+] Cache safe weather data.
+
+PHASE 7 - MANDI [ ] Market API/service adapter. [ ] Crop search. [ ]
+Location filters. [ ] Mandi list. [ ] Price display. [ ] Data timestamp.
+[ ] Source display. [ ] Empty/error states.
+
+PHASE 8 - GOVERNMENT SCHEMES [ ] Scheme data model. [ ] Scheme listing.
+[ ] Search. [ ] Filters. [ ] Scheme details. [ ] Eligibility display. [
+] Official links. [ ] Verification date.
+
+PHASE 9 - FINANCE [ ] Add income. [ ] Add expense. [ ] Categories. [ ]
+Transaction list. [ ] Monthly summary. [ ] Crop-wise summary. [ ] Net
+calculation.
+
+PHASE 10 - REMINDERS [ ] Create reminder. [ ] Edit reminder. [ ] Delete
+reminder. [ ] Mark complete. [ ] Upcoming reminders. [ ] Notification
+integration.
+
+PHASE 11 - SERVICES/MARKETPLACE [ ] Service categories. [ ] Listing
+page. [ ] Listing details. [ ] Search/filter. [ ] Contact/action flow.
+
+PHASE 12 - TESTING [ ] Unit tests. [ ] Component tests. [ ] API tests. [
+] End-to-end tests. [ ] Mobile testing. [ ] Desktop testing. [ ]
+Accessibility testing. [ ] Error-state testing.
+
+PHASE 13 - PRODUCTION [ ] Production environment. [ ] Database setup. [
+] Backend deployment. [ ] Frontend deployment. [ ] HTTPS. [ ]
+Monitoring/logging. [ ] Backup strategy. [ ] Privacy/security review.
+
+PRIORITY P0 = Required for MVP. P1 = Important after MVP. P2 = Future
+enhancement.
+
+MVP P0: Profile, Farm, Crop, Dashboard, Weather, Mandi, Schemes,
+Reminders, Basic Finance, Responsive UI.

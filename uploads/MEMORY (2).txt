@@ -1,0 +1,76 @@
+KISAAN APP / WEBSITE PROJECT MEMORY / CONTEXT Version: 1.0
+
+1.  PROJECT NAME Kisaan
+
+2.  PROJECT PURPOSE Build a farmer-focused digital platform that
+    combines practical farming tools and information in one simple
+    application.
+
+3.  PRIMARY AUDIENCE Indian farmers, especially smartphone users who
+    need simple access to farm, crop, weather, market and government
+    information.
+
+4.  PRODUCT PRINCIPLES
+
+-   Simple first.
+-   Mobile first.
+-   Farmer first.
+-   Useful information over decorative UI.
+-   Clear sources for external information.
+-   Easy Hindi/English experience.
+-   Reliable calculations and data.
+-   Expandable architecture.
+
+5.  CORE MODULES
+
+-   Farmer Profile
+-   Farm Management
+-   Crop Management
+-   Weather
+-   Mandi/Market Prices
+-   Government Schemes
+-   Crop Advisory
+-   Farm Finance
+-   Reminders
+-   Agricultural Services
+-   Notifications
+
+6.  IMPORTANT UX MEMORY The application should not feel like a
+    complicated enterprise dashboard. A normal farmer should be able to
+    understand the main dashboard quickly. Use fewer cards, clear icons,
+    simple labels and obvious actions.
+
+7.  TECHNICAL MEMORY Recommended frontend: React + TypeScript + Vite +
+    React Router + Tailwind CSS + Lucide React.
+
+Recommended production backend: Node.js + TypeScript + REST API +
+PostgreSQL.
+
+8.  DATA MEMORY Farmer-owned data:
+
+-   Profile
+-   Farms
+-   Crops
+-   Activities
+-   Finance
+-   Reminders
+
+External/public data: - Weather - Mandi prices - Government schemes -
+Public services
+
+9.  FUTURE FEATURES
+
+-   AI crop assistant.
+-   Image-based crop disease assistance.
+-   Soil testing integration.
+-   Equipment rental.
+-   Agricultural marketplace.
+-   Expert consultation.
+-   Farmer community.
+-   Offline-first mode.
+-   Regional Indian languages.
+-   Voice-based farmer assistant.
+
+10. PROJECT QUALITY STANDARD The final product should be
+    production-oriented, responsive, accessible, secure, maintainable
+    and easy to extend.
